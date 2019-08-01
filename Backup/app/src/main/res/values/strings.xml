@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jabir movieApp</string>
+    <string name="now_playing">Now playing</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="movie_name">movie name</string>
+    <string name="date">date</string>
+    <string name="description">description</string>
+    <string name="view_details">view details</string>
+    <string name="overview">Overview</string>
+    <string name="backdrop">backDrop</string>
+</resources>
